@@ -1,5 +1,6 @@
 import Header from "../components/Header";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import Footer from "../components/Footer";
 
 export default function Home() {
     return (
@@ -13,6 +14,8 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+            <div style={{ marginTop: '19.8vh' }} />
+            <Footer />
         </div>
     )
 }
