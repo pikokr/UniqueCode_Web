@@ -1,7 +1,7 @@
 export default function Uniquebots() {
     return (
         <div style={{ marginTop: '10rem', marginLeft: '39rem' }}>
-            <img src='/Uniquebots.png' alt='Uniquebots' height={178} width={178} style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img src='/Projects/Uniquebots.png' alt='Uniquebots' height={178} width={178} style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>Uniquebots</h1>
                 <h2 className='text-2xl font-thin mt-1'>당신의 디스코드 봇을 홍보해보세요.</h2>

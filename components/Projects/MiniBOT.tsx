@@ -1,7 +1,7 @@
 export default function MiniBOT() {
     return (
         <div className='p-32 mx-auto' style={{ marginLeft: '31rem', marginTop: '1rem' }}>
-            <img alt='MiniBOT' width={178} height={178} src='/MiniBOT.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img alt='MiniBOT' width={178} height={178} src='/Projects/MiniBOT.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>MiniBOT</h1>
                 <h2 className='text-2xl font-thin'>커스텀 봇을 봇으로 제작하세요.</h2>

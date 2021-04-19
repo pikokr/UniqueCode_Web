@@ -1,7 +1,7 @@
 export default function OliveToast() {
     return (
         <div style={{ marginTop: '-8rem', marginLeft: '39rem' }}>
-            <img alt='OliveToast' width={178} height={178} src='/OliveToast.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img alt='OliveToast' width={178} height={178} src='/Projects/OliveToast.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>OliveToast</h1>
                 <h2 className='text-2xl font-thin'>서버를 관리해줍니다.</h2>

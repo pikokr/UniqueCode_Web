@@ -1,7 +1,7 @@
 export default function StrawberryDonut() {
     return (
         <div className='p-60 mx-auto ml-96 flex sm:gap-10'>
-            <img width={178} height={178} alt='StrawberryDonut' src='/StrawberryDonut.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img width={178} height={178} alt='StrawberryDonut' src='/Projects/StrawberryDonut.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block'>
                 <h1 className='text-6xl font-thin'>StrawberryDonut</h1>
                 <h2 className='text-2xl font-thin'>나만의 스토리를 만들다</h2>

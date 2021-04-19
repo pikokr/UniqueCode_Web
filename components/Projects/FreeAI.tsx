@@ -1,7 +1,7 @@
 export default function FreeAI() {
     return (
         <div className='mx-auto' style={{ marginLeft: '39rem' }}>
-            <img alt='FreeAI' width={178} height={178} src='/FreeAI.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img alt='FreeAI' width={178} height={178} src='/Projects/FreeAI.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>FreeAI</h1>
                 <h2 className='text-2xl font-thin'>다기능 챗봇.</h2>

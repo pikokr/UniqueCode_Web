@@ -1,7 +1,7 @@
 export default function CommingSoon() {
     return (
         <div style={{ marginTop: '8rem', marginLeft: '39rem' }}>
-            <img alt='Comming Soon!' src='/CommingSoon.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img alt='Comming Soon!' src='/Projects/CommingSoon.png' style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>????</h1>
                 <h2 className='text-2xl font-thin'>Comming Soon...</h2>

@@ -1,7 +1,7 @@
 export default function BananaMilk() {
     return (
         <div className='mx-auto' style={{ marginLeft: '39rem', marginTop: '8rem' }}>
-            <img alt='BananaMilk' src='/BananaMilk.png' height={178} width={178} style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
+            <img alt='BananaMilk' src='/Projects/BananaMilk.png' height={178} width={178} style={{ borderRadius: '55px', boxShadow: '10px 10px 30px #58585829' }} />
             <div className='block' style={{ marginLeft: '13.5rem', marginTop: '-11rem' }}>
                 <h1 className='text-6xl font-thin'>BananaMilk</h1>
                 <h2 className='text-2xl font-thin'>모두 함께 이야기를 재미있게.</h2>
