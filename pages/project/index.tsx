@@ -6,6 +6,7 @@ import FreeAI from "../../components/Projects/FreeAI";
 import BananaMilk from "../../components/Projects/BananaMilk";
 import Uniquebots from "../../components/Projects/Uniquebots";
 import CommingSoon from "../../components/Projects/CommingSoon";
+import Footer from "../../components/Footer";
 
 export default function Project() {
     return (
@@ -19,6 +20,7 @@ export default function Project() {
             <Uniquebots />
             <CommingSoon />
             <div className='mt-40' />
+            <Footer />
         </div>
     )
 }
