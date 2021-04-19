@@ -1,5 +1,4 @@
 import Header from "../components/Header";
-import Bots from "../components/Bots";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 export default function Home() {
